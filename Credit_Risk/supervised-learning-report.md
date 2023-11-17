@@ -22,15 +22,16 @@
   * There were 75036 healthy loans and 2500 high risk loans using Traning and Testing sets.
   * The balanced accuracy score was 94%.
   * Precision was 1.00 for healthy loans and 0.87 for high risk loans.
-  * Recall was 1.00 for healthy loans and 0.89 for high risk loans.
-![classification-report1](Images/report1.PNG)
+  * Recall was 1.00 for healthy loans and 0.89 for high risk loans.<br>
+![classification-report1](Images/report1.PNG)<br>
 
 ## Machine Learning Model 2:
   * There were equal healthy and high risk loans using a random over sampler model. 
   * The balanced accuracy score was 99%.
   * Precision was 1.00 for healthy loans and 0.87 for high risk loans.
-  * Recall was 1.00 for healthy loans and 1.00 for high risk loans.
-![classification-report2](Images/report2.PNG)
+  * Recall was 1.00 for healthy loans and 1.00 for high risk loans.<br>
+![classification-report2](Images/report2.PNG)<br>
+
 ## Summary
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
