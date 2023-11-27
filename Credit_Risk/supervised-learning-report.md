@@ -1,4 +1,4 @@
-# Module 12 Report 
+# Module 20 Report 
 
 ## Supervised Learning Overview 🤖
 
@@ -34,7 +34,7 @@
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * The second model using random oversampled data worked the best because it had the best accuracy,  precision, and recall scores. If you are a bank customer applying for a loan, you would want those scores as well as the f1 scores to be as close to 1 as possible so that you are as fairly judged for a loan as possible.
+
 * The type of machine learning algorithm choosen depends on the problem you're trying to solve. For this challenge, supervised learning was used for prediction tasks. For lending purposes a person's likelihood of repaying a loan was predicted using historical payment data. 
 
